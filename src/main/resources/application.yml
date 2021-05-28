@@ -12,7 +12,7 @@ spring:
   jpa:
     show-sql: true
     database-plataform: org.hibernate.dialect.PostgreSQLDialect
-    general-dll: true
+    generate-dll: true
     hibernate:
       ddl-auto: none
 
